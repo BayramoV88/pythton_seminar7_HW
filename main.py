@@ -1,7 +1,7 @@
 import sys
 from init_pb import init_pb
 from menu import menu
-from add_contact import add_contact
+from add_contacts import add_contact
 from search import search
 
 print('Добро пожаловать!')
